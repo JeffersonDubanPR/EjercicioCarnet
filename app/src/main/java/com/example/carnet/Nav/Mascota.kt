@@ -7,3 +7,4 @@ data class Mascota(
     val edad: String,
     val fotoUrl: String
 )
+
